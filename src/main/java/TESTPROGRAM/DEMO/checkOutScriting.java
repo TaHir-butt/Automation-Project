@@ -50,6 +50,8 @@ public class checkOutScriting {
 		Thread.sleep(2000);
 		driver.findElement(By.id("back-to-products")).click();
 		
+		driver.close();
+		
 	}
 
 }
