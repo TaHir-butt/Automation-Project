@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-31T00:07:06 PKT" name="Suite" finished-at="2023-12-31T00:07:17 PKT" duration-ms="10447">
+    <groups>
+    </groups>
+    <test started-at="2023-12-31T00:07:06 PKT" name="Test" finished-at="2023-12-31T00:07:17 PKT" duration-ms="10447">
+      <class name="TestNGFrameWork.ClassNo2">
+        <test-method signature="FourthFirstTest()[pri:0, instance:TestNGFrameWork.ClassNo2@52719fb6]" started-at="2023-12-31T00:07:17 PKT" name="FourthFirstTest" finished-at="2023-12-31T00:07:17 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FourthFirstTest -->
+        <test-method signature="ThirdTest()[pri:0, instance:TestNGFrameWork.ClassNo2@52719fb6]" started-at="2023-12-31T00:07:17 PKT" name="ThirdTest" finished-at="2023-12-31T00:07:17 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThirdTest -->
+        <test-method signature="fifth()[pri:0, instance:TestNGFrameWork.ClassNo2@52719fb6]" started-at="2023-12-31T00:07:17 PKT" name="fifth" finished-at="2023-12-31T00:07:17 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifth -->
+        <test-method signature="sixthFirstTest()[pri:0, instance:TestNGFrameWork.ClassNo2@52719fb6]" started-at="2023-12-31T00:07:17 PKT" name="sixthFirstTest" finished-at="2023-12-31T00:07:17 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sixthFirstTest -->
+      </class> <!-- TestNGFrameWork.ClassNo2 -->
+      <class name="TestNGFrameWork.ClassNo3">
+        <test-method signature="EightTest()[pri:0, instance:TestNGFrameWork.ClassNo3@3012646b]" started-at="2023-12-31T00:07:17 PKT" name="EightTest" finished-at="2023-12-31T00:07:17 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EightTest -->
+        <test-method signature="NinthFirstTest()[pri:0, instance:TestNGFrameWork.ClassNo3@3012646b]" started-at="2023-12-31T00:07:17 PKT" name="NinthFirstTest" finished-at="2023-12-31T00:07:17 PKT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NinthFirstTest -->
+        <test-method signature="elavenfifthTest()[pri:0, instance:TestNGFrameWork.ClassNo3@3012646b]" started-at="2023-12-31T00:07:17 PKT" name="elavenfifthTest" finished-at="2023-12-31T00:07:17 PKT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elavenfifthTest -->
+        <test-method signature="tenthfifthTest()[pri:0, instance:TestNGFrameWork.ClassNo3@3012646b]" started-at="2023-12-31T00:07:17 PKT" name="tenthfifthTest" finished-at="2023-12-31T00:07:17 PKT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tenthfifthTest -->
+      </class> <!-- TestNGFrameWork.ClassNo3 -->
+      <class name="TestNGFrameWork.Class1">
+        <test-method signature="myFirstTest()[pri:0, instance:TestNGFrameWork.Class1@771a660]" started-at="2023-12-31T00:07:06 PKT" name="myFirstTest" finished-at="2023-12-31T00:07:17 PKT" duration-ms="10311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFirstTest -->
+        <test-method signature="secondFirstTest()[pri:0, instance:TestNGFrameWork.Class1@771a660]" started-at="2023-12-31T00:07:17 PKT" name="secondFirstTest" finished-at="2023-12-31T00:07:17 PKT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondFirstTest -->
+      </class> <!-- TestNGFrameWork.Class1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
